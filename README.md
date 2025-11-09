@@ -13,7 +13,6 @@
   - ✅ Sắp xếp theo tên và địa chỉ (tăng dần/giảm dần)
 
 ## URLs
-- **Development**: https://3000-iiydw97eyl4xv00x44nh0-2b54fc91.sandbox.novita.ai
 - **Production**: https://employee-management-caq.pages.dev
 - **GitHub**: https://github.com/leodqk/Employee-Management
 
