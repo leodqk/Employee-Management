@@ -14,8 +14,8 @@
 
 ## URLs
 - **Development**: https://3000-iiydw97eyl4xv00x44nh0-2b54fc91.sandbox.novita.ai
-- **Production**: [Chưa deploy]
-- **GitHub**: [Chưa setup]
+- **Production**: https://employee-management-caq.pages.dev
+- **GitHub**: https://github.com/leodqk/Employee-Management
 
 ## API Endpoints
 
@@ -149,9 +149,11 @@ npm run deploy
 
 ## Deployment
 - **Platform**: Cloudflare Pages
-- **Status**: ✅ Active (Development)
+- **Status**: ✅ Active (Production)
 - **Tech Stack**: Hono + React 18 + Tailwind CSS
 - **Last Updated**: November 9, 2024
+- **Production URL**: https://employee-management-caq.pages.dev
+- **Deployment ID**: 15479c06-8291-4490-b785-0c4fb4b469ad
 
 ## Scripts
 
